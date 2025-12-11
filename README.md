@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RehanParveez" alt="RehanParveez" /></a> </p>
 
-- 🔭 I'm currently working on **an ecommerce project using Django.**
+- 🔭 I am about to start working on **an ecommerce project using Django.**
 
 - 🌱 I'm currently learning **Django**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rparveez417@gmail.com**
 
-- ⚡ Fun fact **I am boring person who loves to learn new things**
+- ⚡ Fun fact **I am a boring person who loves to learn new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
