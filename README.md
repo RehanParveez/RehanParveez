@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RehanParveez" alt="RehanParveez" /></a> </p>
 
-- 🔭 I am about to start working on **an ecommerce project using Django.**
+- 🔭 I am working on **basic drf projects.**
 
-- 🌱 I'm currently learning **Django**
+- 🌱 I'm currently learning **Django/DRF**
 
 - 🤝 I'm looking for help with **learning Software Development**
 
